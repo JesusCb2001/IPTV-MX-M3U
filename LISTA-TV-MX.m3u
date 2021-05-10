@@ -1,5 +1,5 @@
 #EXTM3U
-
+#EXTM3U url-tvg=""
 #EXTINF:-1 tvg-id="3129_1134" group-title="TV ABIERTA" tvg-logo="https://s03.s3c.es/imag/_v0/767x419/6/6/9/600x400_azteca-1.png", AZTECA 1
 http://ipeteve.com/php/SR_REGIO_422/tp.php?c=27&p=3&k=srregio&f=.m3u8 
 
