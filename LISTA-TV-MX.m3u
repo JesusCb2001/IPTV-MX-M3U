@@ -57,7 +57,7 @@ http://ipeteve.com/php/SR_REGIO_422/tp.php?c=117&p=3&k=srregio&f=.m3u8
 http://ipeteve.com/php/SR_REGIO_422/tp.php?c=1708&p=3&k=srregio&f=.m3u8 
 
 #EXTINF:-1 group-title="INFANTIL Y JUVENIL" tvg-logo="https://www.telezumiko.com/img/cartoon.png", CARTOON NETWORK
-http://ipeteve.com/php/SR_REGIO_422/tp.php?c=112&p=3&k=srregio&f=.m3u8 
+https://player.twitch.tv/?channel=cr_tt1lll4&parent=cr_tt1lll4
 
 #EXTINF:-1 group-title="INFANTIL Y JUVENIL" tvg-logo="https://www.telezumiko.com/img/disney.png", DISNEY CHANNEL
 http://ipeteve.com/php/SR_REGIO_422/tp.php?c=113&p=3&k=srregio&f=.m3u8  
