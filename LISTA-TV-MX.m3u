@@ -1,9 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="AZTECA UNO" group-title="TV ABIERTA" tvg-logo="https://s03.s3c.es/imag/_v0/767x419/6/6/9/600x400_azteca-1.png", AZTECA 1
+#EXTINF:-1 group-title="TV ABIERTA" tvg-logo="https://s03.s3c.es/imag/_v0/767x419/6/6/9/600x400_azteca-1.png", AZTECA 1
 http://ipeteve.com/php/SR_REGIO_422/tp.php?c=27&p=3&k=srregio&f=.m3u8 
 
-#EXTINF:-1 group-title="TV ABIERTA" tvg-id="AZTECA 7" tvg-logo="https://tvazteca.brightspotcdn.com/dims4/default/2a5ad51/2147483647/strip/true/crop/500x242+0+0/resize/192x93!/quality/80/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2Fba%2Fcb%2F90af00864d81bcc6fd58633c663b%2Flogoazteca7siete2019-2317490.png", AZTECA 7
+#EXTINF:-1 group-title="TV ABIERTA"  tvg-logo="https://tvazteca.brightspotcdn.com/dims4/default/2a5ad51/2147483647/strip/true/crop/500x242+0+0/resize/192x93!/quality/80/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2Fba%2Fcb%2F90af00864d81bcc6fd58633c663b%2Flogoazteca7siete2019-2317490.png", AZTECA 7
 http://ipeteve.com/php/SR_REGIO_422/tp.php?c=21&p=3&k=srregio&f=.m3u8 
 
 #EXTINF:-1 group-title="TV ABIERTA" tvg-logo="https://tvazteca.brightspotcdn.com/dims4/default/fe3348d/2147483647/strip/true/crop/240x70+0+0/resize/158x46!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2Fce%2Fc5%2Fe827af739d94383774d81dacab85%2Flogoadn-2268863.png", ADN 40 
@@ -13,7 +13,7 @@ https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
 https://adinsertprimeforotv.akamaized.net/hls/live/2004483/forotvdai/PROFILE02.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA" tvg-logo="https://3.bp.blogspot.com/-v4r_5D6f3Q0/V8ECsjSR5CI/AAAAAAAAhPs/Fcd206duSUg3opllF2Gqo6fnURtGLcsjwCLcB/s1600/logotipo-canal-las-estrellas-2016-televisa-ximinia-pinata-emblema-marca-critica-star-navidad-festivo-septiembre-wallpaper-klavika-font-tipografia-television-tv-mexico-mx-empresa-medios-comunicacion-televisora-monopolio-telebasura-contenido-analisis.jpg", LAS ESTRELLAS
-http://ipeteve.com/php/SR_REGIO_422/tp.php?c=17&p=3&k=srregio&f=.m3u8 
+https://fbf63mru6jlw1h24.uzcdn193.net:8443/hls/bsg12zvu4e01i7.m3u8?s=gZxOmxus0bYXwj2GHDfblQ&e=1620795985
 
 #EXTINF:-1 group-title="TV ABIERTA" tvg-logo="https://televisa.brightspotcdn.com/dims4/default/abb340a/2147483647/strip/true/crop/1200x675+0+0/resize/1200x675!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2F6d%2F8e%2F9cc24da34a0daf74c67826012b8a%2Fcanal-5.jpg", CANAL 5
 http://ipeteve.com/php/SR_REGIO_422/tp.php?c=20&p=3&k=srregio&f=.m3u8 
