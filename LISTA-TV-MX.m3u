@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="TV ABIERTA" tvg-logo="https://s03.s3c.es/imag/_v0/767x419/6/6/9/600x400_azteca-1.png", AZTECA 1
-http://ipeteve.com/php/SR_REGIO_422/tp.php?c=27&p=3&k=srregio&f=.m3u8 
+https://fbf63mru6jlw1h24.uzcdn193.net:8443/hls/7tmke.m3u8?s=aYjxAOQynpzwmMAeO4XC5Q&e=1620796145
 
 #EXTINF:-1 group-title="TV ABIERTA"  tvg-logo="https://tvazteca.brightspotcdn.com/dims4/default/2a5ad51/2147483647/strip/true/crop/500x242+0+0/resize/192x93!/quality/80/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2Fba%2Fcb%2F90af00864d81bcc6fd58633c663b%2Flogoazteca7siete2019-2317490.png", AZTECA 7
 https://fbf63mru6jlw1h24.uzcdn193.net:8443/hls/jykbz8ou4rw9.m3u8?s=dLvaqmWNmEqzWbTIVFgSug&e=1620796085
@@ -16,7 +16,7 @@ https://adinsertprimeforotv.akamaized.net/hls/live/2004483/forotvdai/PROFILE02.m
 https://fbf63mru6jlw1h24.uzcdn193.net:8443/hls/bsg12zvu4e01i7.m3u8?s=gZxOmxus0bYXwj2GHDfblQ&e=1620795985
 
 #EXTINF:-1 group-title="TV ABIERTA" tvg-logo="https://televisa.brightspotcdn.com/dims4/default/abb340a/2147483647/strip/true/crop/1200x675+0+0/resize/1200x675!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2F6d%2F8e%2F9cc24da34a0daf74c67826012b8a%2Fcanal-5.jpg", CANAL 5
-http://ipeteve.com/php/SR_REGIO_422/tp.php?c=20&p=3&k=srregio&f=.m3u8 
+https://live.televisiongratishd.com/hls/ts18e8mxa3xmnll/2_.m3u8?token=pc5P7bnzJsWUYrx0jJM9Fg&expires=1620781959
 
 #EXTINF:-1 group-title="TV ABIERTA" tvg-logo="https://www.teleblanca.com/img/imagen.png" , IMAGEN TV
 http://ipeteve.com/php/SR_REGIO_422/tp.php?c=2298&p=3&k=srregio&f=.m3u8
