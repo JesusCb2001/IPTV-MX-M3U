@@ -84,10 +84,10 @@ http://tecnotv.club/sun/geomex.php?c=341&p=3&k=tecnotv&f=.m3u8
 
 
 #EXTINF:-1 group-title="MUSICA" tvg-logo="https://www.telebunker.com/img/mtv.png", MTV
-http://tecnotv.club/sun/geomex.php?c=212&p=3&k=tecnotv&f=.m3u8  
+http://tecnotv.club/sun/geomex.php?c=212&p=3&k=tecnotv&f=.m3u8   
 
 #EXTINF:-1 group-title="MUSICA" tvg-logo="https://pbs.twimg.com/profile_images/1157806738021736448/ODAmOsLN_400x400.jpg", MTV HITS SD
-http://tecnotv.club/sun/geomex.php?c=213&p=3&k=tecnotv&f=.m3u8    
+http://tecnotv.club/sun/geomex.php?c=213&p=3&k=tecnotv&f=.m3u8 
 
 #EXTINF:-1 group-title="MUSICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/MTV_Live.svg/800px-MTV_Live.svg.png", MTV LIVE
 http://tecnotv.club/sun/geomex.php?c=211&p=3&k=tecnotv&f=.m3u8 
@@ -96,13 +96,13 @@ http://tecnotv.club/sun/geomex.php?c=211&p=3&k=tecnotv&f=.m3u8
 http://tecnotv.club/sun/geomex.php?c=214&p=3&k=tecnotv&f=.m3u8 
 
 #EXTINF:-1 group-title="MUSICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1920px-VH1_logonew.svg.png", VH1 SD 
-http://tecnotv.club/sun/geomex.php?c=217&p=3&k=tecnotv&f=.m3u8 
+http://tecnotv.club/sun/geomex.php?c=217&p=3&k=tecnotv&f=.m3u8  
 
 #EXTINF:-1 group-title="MUSICA" tvg-logo="https://elincorrecto.mx/wp-content/uploads/2019/03/telehit.png", TELEHIT URBANO SD
 http://tecnotv.club/sun/geomex.php?c=218&p=3&k=tecnotv&f=.m3u8 
 
 #EXTINF:-1 group-title="MUSICA" tvg-logo="https://forounivers.com/uploads/monthly_2018_06/large.Logo_telehit.png.cdf9dcc20a1e4c0a05bd9f4e29383079.png", TELEHIT 
-http://tecnotv.club/sun/geomex.php?c=220&p=3&k=tecnotv&f=.m3u8 
+http://tecnotv.club/sun/geomex.php?c=220&p=3&k=tecnotv&f=.m3u8  
 
 #EXTINF:-1 group-title="MUSICA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/Bandamax_logo.jpg", BANDAMAX SD
 http://tecnotv.club/sun/geomex.php?c=221&p=3&k=tecnotv&f=.m3u8  
@@ -116,7 +116,7 @@ http://tecnotv.club/sun/geomex.php?c=223&p=3&k=tecnotv&f=.m3u8
 
 
 #EXTINF:-1 group-title="SERIES Y PELICULAS" tvg-logo="https://www.tvconexion.com/img/warner.png", WARNER CHANNEL
-http://tecnotv.club/sun/geomex.php?c=52&p=3&k=tecnotv&f=.m3u8
+http://tecnotv.club/sun/geomex.php?c=52&p=3&k=tecnotv&f=.m3u8 
 
 #EXTINF:-1 group-title="SERIES Y PELICULAS" tvg-logo="https://www.newslinereport.com/online/nota_cinemax-entre-los-favoritos-de-la-audiencia-mexicana.jpg", CINEMAX
 http://tecnotv.club/sun/geomex.php?c=158&p=3&k=tecnotv&f=.m3u8
@@ -125,38 +125,41 @@ http://tecnotv.club/sun/geomex.php?c=158&p=3&k=tecnotv&f=.m3u8
 http://tecnotv.club/sun/geomex.php?c=129&p=3&k=tecnotv&f=.m3u8 
 
 #EXTINF:-1 group-title="SERIES Y PELICULAS" tvg-logo="https://backend.laguia.tv/uploads/CineCanal_f1374d3a6e.png", CINECANAL
-http://tecnotv.club/sun/geomex.php?c=149&p=3&k=tecnotv&f=.m3u8
+http://tecnotv.club/sun/geomex.php?c=149&p=3&k=tecnotv&f=.m3u8  
 
 #EXTINF:-1 group-title="SERIES Y PELICULAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/800px-FX_International_logo.svg.png", FX LATINO
-http://tecnotv.club/sun/geomex.php?c=60&p=3&k=tecnotv&f=.m3u8
+http://tecnotv.club/sun/geomex.php?c=60&p=3&k=tecnotv&f=.m3u8  
 
 #EXTINF:-1 group-title="SERIES Y PELICULAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png", GOLDEN
-http://tecnotv.club/sun/geomex.php?c=122&p=3&k=tecnotv&f=.m3u8 
+http://tecnotv.club/sun/geomex.php?c=123&p=3&k=tecnotv&f=.m3u8 
 
 #EXTINF:-1 group-title="SERIES Y PELICULAS" tvg-logo="https://seeklogo.com/images/G/golden-edge-logo-B4A01BE953-seeklogo.com.png", GOLDEN EDGE
 http://tecnotv.club/sun/geomex.php?c=124&p=3&k=tecnotv&f=.m3u8 
 
 #EXTINF:-1 group-title="SERIES Y PELICULAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Star_Series_2020.svg/800px-Star_Series_2020.svg.png", STAR SERIES
-http://tecnotv.club/sun/geomex.php?c=139&p=3&k=tecnotv&f=.m3u8
+http://tecnotv.club/sun/geomex.php?c=139&p=3&k=tecnotv&f=.m3u8  
 
 #EXTINF:-1 group-title="SERIES Y PELICULAS" tvg-logo="SERIES Y PELICULA", STAR LIFE
 http://tecnotv.club/sun/geomex.php?c=77&p=3&k=tecnotv&f=.m3u8  
 
 #EXTINF:-1 group-title="SERIES Y PELICULAS" tvg-logo=" https://assets.cdn.watchdisneyfe.com/delta/assets/foxplay/DSNY_STAR_LOGO_LIGHT_RGB.png" ,STAR HD 
-http://tecnotv.club/sun/geomex.php?c=201&p=3&k=tecnotv&f=.m3u8
+http://tecnotv.club/sun/geomex.php?c=46&p=3&k=tecnotv&f=.m3u8
 
 #EXTINF:-1 group-title="SERIES Y PELICULAS" tvg-logo="https://seeklogo.com/images/F/fox-movies-logo-F27D1460B9-seeklogo.com.png" ,STAR MOVIES 
-http://tecnotv.club/sun/geomex.php?c=146&p=3&k=tecnotv&f=.m3u8 
+http://tecnotv.club/sun/geomex.php?c=146&p=3&k=tecnotv&f=.m3u8  
 
 #EXTINF:-1 group-title="SERIES Y PELICULAS" tvg-logo="https://seeklogo.com/images/S/star-atcion-logo-7391F231E8-seeklogo.com.png" ,SATR ACTION
 http://tecnotv.club/sun/geomex.php?c=336&p=3&k=tecnotv&f=.m3u8 
 
 #EXTINF:-1 group-title="SERIES Y PELICULA" tvg-logo="https://seeklogo.com/images/S/star-cinema-logo-DA286E4FA2-seeklogo.com.png" ,STAR CINEMA SD
-http://tecnotv.club/sun/geomex.php?c=1729&p=3&k=tecnotv&f=.m3u8  
+http://tecnotv.club/sun/geomex.php?c=1729&p=3&k=tecnotv&f=.m3u8 
 
 #EXTINF:-1 group-title="SERIES Y PELICULA" tvg-logo="https://seeklogo.com/images/S/star-classics-logo-DA1825A08D-seeklogo.com.png" ,STAR CLASSICS SD
 http://tecnotv.club/sun/geomex.php?c=1732&p=3&k=tecnotv&f=.m3u8
 
 #EXTINF:-1 group-title="SERIES Y PELICULAS" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnj_MJneiZgLurj7WHk1Ksjkls7vFa14aVBD3qeZCg=s900-c-k-c0x00ffffff-no-rj", AXN
-http://tecnotv.club/sun/geomex.php?c=64&p=3&k=tecnotv&f=.m3u8  
+http://tecnotv.club/sun/geomex.php?c=64&p=3&k=tecnotv&f=.m3u8 
+
+#EXTINF:-1 group-title="SERIES Y PELICULAS",PARAMOUNT CHANNEL 
+http://tecnotv.club/sun/geomex.php?c=1726&p=3&k=tecnotv&f=.m3u8 
 
