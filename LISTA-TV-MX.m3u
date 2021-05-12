@@ -1,83 +1,83 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="TV ABIERTA" tvg-logo="https://s03.s3c.es/imag/_v0/767x419/6/6/9/600x400_azteca-1.png", AZTECA 1
-https://fbf63mru6jlw1h24.uzcdn193.net:8443/hls/7tmke.m3u8?s=aYjxAOQynpzwmMAeO4XC5Q&e=1620796145
+http://tecnotv.club/moon/geomex.php?c=27&p=3&k=tecnotv&f=.m3u8 
 
-#EXTINF:-1 group-title="TV ABIERTA"  tvg-logo="https://tvazteca.brightspotcdn.com/dims4/default/2a5ad51/2147483647/strip/true/crop/500x242+0+0/resize/192x93!/quality/80/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2Fba%2Fcb%2F90af00864d81bcc6fd58633c663b%2Flogoazteca7siete2019-2317490.png", AZTECA 7
-https://live.tvplusgratis.com/hls/ts18e8mxa3xmnll/50_.m3u8?token=pCfaJd6htTPw32w1Gf8RHA&expires=1620782155
+#EXTINF:-1 group-title="TV ABIERTA"  tvg-logo="https://telegratis.org/wp-content/uploads/2019/11/azteca-7.png", AZTECA 7
+http://tecnotv.club/moon/geomex.php?c=21&p=3&k=tecnotv&f=.m3u8 
 
-#EXTINF:-1 group-title="TV ABIERTA" tvg-logo="https://tvazteca.brightspotcdn.com/dims4/default/fe3348d/2147483647/strip/true/crop/240x70+0+0/resize/158x46!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2Fce%2Fc5%2Fe827af739d94383774d81dacab85%2Flogoadn-2268863.png", ADN 40 
+#EXTINF:-1 group-title="TV ABIERTA" tvg-logo="https://pbs.twimg.com/profile_images/1356749562644463616/wogHFIwn_400x400.jpg", ADN 40 
 https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA" group-title="NOTICIAS" tvg-logo="https://noticieros.televisa.com/wp-content/themes/news-amp/images/foro-live.png", FORO TV
 https://adinsertprimeforotv.akamaized.net/hls/live/2004483/forotvdai/PROFILE02.m3u8
 
-#EXTINF:-1 group-title="TV ABIERTA" tvg-logo="https://3.bp.blogspot.com/-v4r_5D6f3Q0/V8ECsjSR5CI/AAAAAAAAhPs/Fcd206duSUg3opllF2Gqo6fnURtGLcsjwCLcB/s1600/logotipo-canal-las-estrellas-2016-televisa-ximinia-pinata-emblema-marca-critica-star-navidad-festivo-septiembre-wallpaper-klavika-font-tipografia-television-tv-mexico-mx-empresa-medios-comunicacion-televisora-monopolio-telebasura-contenido-analisis.jpg", LAS ESTRELLAS
-https://fbf63mru6jlw1h24.uzcdn193.net:8443/hls/dscs0wr97wf.m3u8?s=CDDJckts1Qrw20Fb7fVxRQ&e=1620797073
+#EXTINF:-1 group-title="TV ABIERTA" tvg-logo="https://telegratis.org/wp-content/uploads/2019/11/las-estrellas.png", LAS ESTRELLAS
+http://tecnotv.club/moon/geomex.php?c=17&p=3&k=tecnotv&f=.m3u8 
 
-#EXTINF:-1 group-title="TV ABIERTA" tvg-logo="https://televisa.brightspotcdn.com/dims4/default/abb340a/2147483647/strip/true/crop/1200x675+0+0/resize/1200x675!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2F6d%2F8e%2F9cc24da34a0daf74c67826012b8a%2Fcanal-5.jpg", CANAL 5
-https://live.televisiongratishd.com/hls/ts18e8mxa3xmnll/2_.m3u8?token=pc5P7bnzJsWUYrx0jJM9Fg&expires=1620781959
+#EXTINF:-1 group-title="TV ABIERTA" tvg-logo="https://telegratis.org/wp-content/uploads/2019/11/canal-5.png", CANAL 5
+http://tecnotv.club/moon/geomex.php?c=20&p=3&k=tecnotv&f=.m3u8 
 
 #EXTINF:-1 group-title="TV ABIERTA" tvg-logo="https://www.teleblanca.com/img/imagen.png" , IMAGEN TV
-http://ipeteve.com/php/SR_REGIO_422/tp.php?c=2298&p=3&k=srregio&f=.m3u8
+http://tecnotv.club/moon/geomex.php?c=2298&p=3&k=tecnotv&f=.m3u8  
 
 #EXTINF:-1 group-title="TV ABIERTA" tvg-logo="https://www.televisa.com/el-nueve/assets/56c582ffbc635c96/img/placeholder_default_share.jpg", NUEVE
-http://ipeteve.com/php/SR_REGIO_422/tp.php?c=24&p=3&k=srregio&f=.m3u8 
+http://tecnotv.club/moon/geomex.php?c=24&p=3&k=tecnotv&f=.m3u8 
 
 
 
 
 
 #EXTINF:-1 group-title="NOVELAS" tvg-logo="https://tvnotiblog.com/wp-content/uploads/2007/09/tlnovelas_logo-768x432.jpg", TL NOVELAS
-http://ipeteve.com/php/SR_REGIO_422/tp.php?c=83&p=3&k=srregio&f=.m3u8  
+http://tecnotv.club/moon/geomex.php?c=83&p=3&k=tecnotv&f=.m3u8  
 
 
 
 
 
 #EXTINF:-1 group-title="INFANTIL Y JUVENIL" tvg-logo="https://www.telezumiko.com/img/tooncast.png", TOONCAST
-https://fbf63mru6jlw1h24.uzcdn193.net:8443/hls/d7zi3sak.m3u8?s=yftr-0Ix0Mx5VXmoLWVkYg&e=1620798544
+http://tecnotv.club/moon/geomex.php?c=108&p=3&k=tecnotv&f=.m3u8  
 
 #EXTINF:-1 group-title="INFANTIL Y JUVENIL" tvg-logo="https://www.telezumiko.com/img/dkids.png", DISCOVERY KIDS
-https://fbf63mru6jlw1h24.uzcdn193.net:8443/hls/4k7om.m3u8?s=ZwXBeritYjnGGuGZORt9fg&e=1620798600
+http://tecnotv.club/moon/geomex.php?c=109&p=3&k=tecnotv&f=.m3u8  
 
-#EXTINF:-1 group-title="INFANTIL Y JUVENIL" tvg-logo="https://www.telebunker.com/img/discovery.png", Discovery Channel 
-https://video-weaver.atl01.hls.ttvnw.net/v1/playlist/CpwFCTYuOUtyP_L_6vbVanfMwssMZXglhWvaBo0Ce22H3g8Rii5NJb-mjjbRWnsMzQKjf0lURCiiHXXGPQLLXFR5OZv6PPk2pik7RBC1BPg2Dm0He_15BlgxdRhY935vqL_N0sWuP50jELPdYwqEl3wOAbYP9dWScSsFweVMaNNl6BHKwd44kdZsnn3SgZqgSDHHHUNLI78LgNOIij8z7haZknxURDNhdz40ljgZPqHCnRN9S6YvNpUM7f0y2hAEvYX3hO8vdm7de-lb_SvASnggBJwQXwjrplYKQRRfOByXLkx4jVFvzAVDFeGv_i2XGebzLGVCkn3K8NTE7WIJQqgawrqw_z2mvLCeIW64OqUdF4UNQOqRtiSmEQ0RpJXC6gZADBJz_0VytAnGbVp_Xj8pKsQGQVa7UqgE02MLn3nyc79UlhPKHEdZVIB-3StrVGRwj3WG3_QQMgc4wvf9EbVRyh39uibkXggIz7ROwzPOXZFtKxwoHImqC1DLYEH81Uk0kHGHbwbk1PUr0qK9jbt7lItKHeFzqd3vrs8OQP6e5MKwvMQQA-yh4m52emnqwOouMA2gqc7TmJCrPkJluIBY3cqg-DCfgXiujlWLZkXLnFfOeh4qmD8KgmEbz6ibCAzNh4Uct08Mw-chSiJtfK5SMV33qXnRoly4ZPwbDk3Qf175yKTwACJUQtztUkeH5Aswd8Jczd19QdV-TK51cZAlvtaOzP3367tTAi4c-46WW514jruPM3rAyDQUWwjdJe_iD5eEaS-lKmGbrceKU4-id2W_lg3KPQ0kcBuW-DEfopIImhjXYaGlzmucYlaSHzrQdrsrWuSt_WcVogd9spHXsB4KY5jE1wzUceQsldclaM0mqkfL1d82l1uSp2ASEEdKmqV-EZkZS9iwkn4ikS4aDP8wvJebFKIo9JecWg.m3u8
+#EXTINF:-1 group-title="INFANTIL Y JUVENIL" tvg-logo="https://www.telebunker.com/img/discovery.png", DISCOVERY CHANNEL
+ http://tecnotv.club/moon/geomex.php?c=86&p=3&k=tecnotv&f=.m3u8  
  
 #EXTINF:-1 group-title="INFANTIL Y JUVENIL" tvg-logo="https://www.telezumiko.com/img/nick.png", NICK
-http://iptv.mataocio.com/2021/03/mo-display.html?m=1#
+http://tecnotv.club/moon/geomex.php?c=110&p=3&k=tecnotv&f=.m3u8 
 
 #EXTINF:-1 group-title="INFANTIL Y JUVENIL" tvg-logo="https://www.telezumiko.com/img/nick2.png", NICK 2  
-https://live.televisiongratishd.com/hls/ts18e8mxa3xmnll/111_.m3u8?token=Y9PhIP1cHw2pBpI_ZiP9MQ&expires=1620783594
+http://tecnotv.club/moon/geomex.php?c=2147&p=3&k=tecnotv&f=.m3u8
 
 #EXTINF:-1 group-title="INFANTIL Y JUVENIL" tvg-logo="https://www.telezumiko.com/img/nicktoons.png", NICKTOONS SD 
-http://ipeteve.com/php/SR_REGIO_422/tp.php?c=1708&p=3&k=srregio&f=.m3u8 
+http://tecnotv.club/moon/geomex.php?c=1708&p=3&k=tecnotv&f=.m3u8  
 
 #EXTINF:-1 group-title="INFANTIL Y JUVENIL" tvg-logo="https://www.telezumiko.com/img/cartoon.png", CARTOON NETWORK
-https://video-weaver.atl01.hls.ttvnw.net/v1/playlist/CpwFToCFtPLk5M5f2e7xB9J-hnZDmq8_5gnSChkBTZErbzhGR-h1JBzTfXfXpbWkvGY75qU4l02YqY15eRZ9L7zcrXC2RzEMhCT3CXZeZv3d8iZvoaQfaGERkjBnC2Qgusa915_wjueAeHO6lEZzVh7FkSEw_8Fh8IcVEbQKGoqj2EmVRBAyyhLFo1lzYlYIGEO3LzMrCrxNADDx4cKy3kBmcPQtNBESbeLcy-thhVzMBcSZr4dkIFzi2kw88KJUchO7pvvXo31xYoN_Zg1OUKaFsHNMrt-4C7zumck-XYgyRxhtssr_oTOIoi3C5Y9oxN1PTfSpZkWb9KGEq64tYzVHLdO_yzBKI3ZKQ99AVuFCzcYfwkDfrn4gAykmcWKjOwAo7QqKHRDXflDmKulXawSOY5WvbtBBhGLrdUWHW1RJ2SNq3iCobbnn5Bm8ctuu_e5HayvbKDGC-niD8rGsDDPRBZe6tZc3rPOOPn6GmLRb9D90TVr0vE_i49lrmePFwuViol9QR45TV5oB_hTYXRDUBhwpkP0VPz2vlZO4ffKwvNKJmdfCr1tcJRzHt0jnJokArX1JO8h0XmW93d10KCIClJLO1Ydkz106GoTO-5x6JPb3mdJJUYiVNpWbc3viyXyLBWJo_PyAb8fESu5EiFkYG47KA8e7JaPzsvO9j7e0qaqsFH5FdcDb6VoQJchllExcOxWYzFExuvsoMHOdFOLfsCGGrxJmRIY6jpYe1EVE7-jb15AGizuIXqz5wFIOII7joGjRfUkG_H5VISLcKQmAf91EMMaHTMfW8x9qwv9yvSTcFWyBjDpRkf9dvDd2ZVqfqj9-CskZELTdJyrnpIDX87NWlbQ-57VdNHIh1XTYZspXm0ovgeqzpKsou5wSEACSYHxxij3nkeXZ0EGKRD4aDC7QeiUPaMMOKP-iUA.m3u8
+http://tecnotv.club/moon/geomex.php?c=112&p=3&k=tecnotv&f=.m3u8  
 
 #EXTINF:-1 group-title="INFANTIL Y JUVENIL" tvg-logo="https://www.telezumiko.com/img/disney.png", DISNEY CHANNEL
-https://video-weaver.atl01.hls.ttvnw.net/v1/playlist/Cp0FUs4AAh9thuQjfO5yUtrENngJ-bk56iwWz_dDRiCE6djE4WbK3dQbSaJmEXb9ENp8lj438wuEgGuJwV1pvHTvujFzkXgFrPT57xm0jIP-ZL5S-mb1AQuV7ALko_fY1RgQyzgKmgOhWHBkydpxyj0FGlmRuEpjMK912blewTPA1dqKbxS_Rg4ZCR5dhWbEwpOJGQ57sRBdg7iuj0o633EL__TASXXq2muhhRn-Wvsfua2C_z64mDEwCRHoG_IBFLj104RiDdqy70Mm2jeqNAL2MCX4oD-YrKSGUoggJD96lmccQXkWlLTfanQOzqp_Mj5H67v8ld-EPNuF7HJlB-l2eGf6KUeTkxPqCAB5kS_lENOgb-XFUinNTy3EgI5ys8n0_6dDGIw26gvAfmAj9jeKLBKomz5aZSXh2nIKrrv6NiPIMHgpYZQadi073t_epXJfsA5aCK5uNG07MR_QEI_JflENyeG4ekNEi8bWh6uJKqIiJ3sQfCge2xOGyOtyTJNQocv1xzD2_W_IZDnWAKZY3D00V8iXzSNr8LS7PyraK331jDR7_QsVffN9FQ1vWVHJLFQQRcoZ7qKnzKu0hrwXmzjaw5MV23fqv9b3JnTdYy4MRqz0zW5fX7v6C_WqSP1tcsELjaf5dFCjfYD7mb-KzqGrAg7XkkpXKSjuWPQ-ORnpTRrOf9lXqsRC8rG2zTp7Y7NTo1FRnzBSub4hlmzXcjaZDTq72RQY5sM5kckkq5lj31dLvPgJ82RLSQCp59V6dPI_CxHLCAuLPer2odwtSacf4fnY1U1LdmHq7uPdiahOIbQQ-xyVWc3L189_HXegjRJzNHt8zBPm-NbCuGirB9vwS8-iG3CoO6w0OScz1VdC5FQta1lvDOW6Pg-JEhCJheamuHjasxD19oioIi4vGgxU_U1JRwP-FtDe8iY.m3u8
+http://tecnotv.club/moon/geomex.php?c=113&p=3&k=tecnotv&f=.m3u8  
 
 #EXTINF:-1 group-title="INFANTIL Y JUVENIL" tvg-logo="https://www.telezumiko.com/img/djunior.png", DISNEY JR
-https://fbf63mru6jlw1h24.uzcdn193.net:8443/hls/34fft2cvx9sy.m3u8?s=8EjXWt9VJ5ecJRchWTuPOw&e=1620798415
+http://tecnotv.club/moon/geomex.php?c=118&p=3&k=tecnotv&f=.m3u8
 
 #EXTINF:-1 group-title="INFANTIL Y JUVENIL" tvg-logo="https://www.telezumiko.com/img/disneyxd.png", DISNEY XD
-https://fbf63mru6jlw1h24.uzcdn193.net:8443/hls/e4jegqx.m3u8?s=LJqAEbonXTckT3g0yql42A&e=1620798317
+http://tecnotv.club/moon/geomex.php?c=111&p=3&k=tecnotv&f=.m3u8  
 
-#EXTINF:-1 group-title="INFANTIL Y JUVENIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/800px-Boomerang_2014_logo.svg.png", BOOMERANG
-https://fbf63mru6jlw1h24.uzcdn193.net:8443/hls/bolmwc.m3u8?s=qWLr5wFr-kM5j5sMpmDG8A&e=1620798249
+#EXTINF:-1 group-title="INFANTIL Y JUVENIL" tvg-logo="https://cn.i.cdn.ti-platform.com/content/1057/boomerang/showpage/ar/png_showpages.83b8f431.png?imwidth=250", BOOMERANG
+http://tecnotv.club/moon/geomex.php?c=115&p=3&k=tecnotv&f=.m3u8 
 
-
-
+#EXTINF:-1 group-title="INFANTIL Y JUEVENIL" tvg-logo="https://i.blogs.es/47c708/bitme/1366_2000.jpg",BIT ME  
+http://tecnotv.club/moon/geomex.php?c=2591&p=3&k=tecnotv&f=.m3u8
 
 
 
 #EXTINF:-1 group-title="COMEDIA" tvg-logo="https://i.ytimg.com/vi/jMrM2qF0H-k/maxresdefault.jpg", DISTRITO COMEDIA
-blob:https://wigistream.to/97faf802-ae81-49ea-8cf9-e2eeaa93d4c0
+http://tecnotv.club/moon/geomex.php?c=78&p=3&k=tecnotv&f=.m3u8 
 
 #EXTINF:-1 group-title="COMEDIA" tvg-logo="https://larepublica.pe/resizer/eeinkU0xbmusHWuP0tkiuzfgre4=/1250x735/top/smart/cloudfront-us-east-1.images.arcpublishing.com/gruporepublica/EMTMFTQTFFA6BHTYMGPFYKOUPY.jpg", COMEDY CENTRAL 
-http://ipeteve.com/php/SR_REGIO_422/tp.php?c=341&p=3&k=srregio&f=.m3u8 
+http://tecnotv.club/moon/geomex.php?c=341&p=3&k=tecnotv&f=.m3u8 
 
 
 
@@ -86,31 +86,31 @@ http://ipeteve.com/php/SR_REGIO_422/tp.php?c=341&p=3&k=srregio&f=.m3u8
 
 
 #EXTINF:-1 group-title="MUSICA" tvg-logo="https://www.telebunker.com/img/mtv.png", MTV
-http://ipeteve.com/php/SR_REGIO_422/tp.php?c=212&p=3&k=srregio&f=.m3u8  
+http://tecnotv.club/moon/geomex.php?c=212&p=3&k=tecnotv&f=.m3u8  
 
-#EXTINF:-1 group-title="MUSICA" tvg-logo="https://pbs.twimg.com/profile_images/1157806738021736448/ODAmOsLN_400x400.jpg", MTV HITS
-http://ipeteve.com/php/SR_REGIO_422/tp.php?c=213&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 group-title="MUSICA" tvg-logo="https://pbs.twimg.com/profile_images/1157806738021736448/ODAmOsLN_400x400.jpg", MTV HITS SD
+http://tecnotv.club/moon/geomex.php?c=213&p=3&k=tecnotv&f=.m3u8    
 
 #EXTINF:-1 group-title="MUSICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/MTV_Live.svg/800px-MTV_Live.svg.png", MTV LIVE
-http://ipeteve.com/php/SR_REGIO_422/tp.php?c=211&p=3&k=srregio&f=.m3u8 
+http://tecnotv.club/moon/geomex.php?c=211&p=3&k=tecnotv&f=.m3u8 
 
 #EXTINF:-1 group-title="MUSICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LOGO_VH1_CLASSIC.svg/620px-LOGO_VH1_CLASSIC.svg.png", VH1 CLASSIC SD
-http://ipeteve.com/php/SR_REGIO_422/tp.php?c=214&p=3&k=srregio&f=.m3u8 
+http://tecnotv.club/moon/geomex.php?c=214&p=3&k=tecnotv&f=.m3u8 
 
 #EXTINF:-1 group-title="MUSICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1920px-VH1_logonew.svg.png", VH1 SD 
-http://ipeteve.com/php/SR_REGIO_422/tp.php?c=217&p=3&k=srregio&f=.m3u8  
+http://tecnotv.club/moon/geomex.php?c=217&p=3&k=tecnotv&f=.m3u8 
 
 #EXTINF:-1 group-title="MUSICA" tvg-logo="https://elincorrecto.mx/wp-content/uploads/2019/03/telehit.png", TELEHIT URBANO SD
-http://ipeteve.com/php/SR_REGIO_422/tp.php?c=218&p=3&k=srregio&f=.m3u8 
+http://tecnotv.club/moon/geomex.php?c=218&p=3&k=tecnotv&f=.m3u8 
 
 #EXTINF:-1 group-title="MUSICA" tvg-logo="https://forounivers.com/uploads/monthly_2018_06/large.Logo_telehit.png.cdf9dcc20a1e4c0a05bd9f4e29383079.png", TELEHIT 
-http://ipeteve.com/php/SR_REGIO_422/tp.php?c=220&p=3&k=srregio&f=.m3u8  
+http://tecnotv.club/moon/geomex.php?c=220&p=3&k=tecnotv&f=.m3u8 
 
 #EXTINF:-1 group-title="MUSICA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/Bandamax_logo.jpg", BANDAMAX SD
-http://ipeteve.com/php/SR_REGIO_422/tp.php?c=221&p=3&k=srregio&f=.m3u8  
+http://tecnotv.club/moon/geomex.php?c=221&p=3&k=tecnotv&f=.m3u8  
 
 #EXTINF:-1 group-title="MUSICA" tvg-logo="https://vivotvhd.com/img/cha/3016.gif", AZ CLIC
-http://ipeteve.com/php/SR_REGIO_422/tp.php?c=223&p=3&k=srregio&f=.m3u8 
+http://tecnotv.club/moon/geomex.php?c=223&p=3&k=tecnotv&f=.m3u8 
 
 
 
@@ -118,34 +118,50 @@ http://ipeteve.com/php/SR_REGIO_422/tp.php?c=223&p=3&k=srregio&f=.m3u8
 
 
 #EXTINF:-1 group-title="SERIES Y PELICULAS" tvg-logo="https://www.tvconexion.com/img/warner.png", WARNER CHANNEL
-https://live.televisiongratishd.com/hls/ts18e8mxa3xmnll/40_.m3u8?token=e_hSxBP5oqiSp4Sac_SCfA&expires=1620785065
+http://tecnotv.club/moon/geomex.php?c=52&p=3&k=tecnotv&f=.m3u8
+
 #EXTINF:-1 group-title="SERIES Y PELICULAS" tvg-logo="https://www.newslinereport.com/online/nota_cinemax-entre-los-favoritos-de-la-audiencia-mexicana.jpg", CINEMAX
-http://ipeteve.com/php/SR_REGIO_422/tp.php?c=158&p=3&k=srregio&f=.m3u8
+http://tecnotv.club/moon/geomex.php?c=158&p=3&k=tecnotv&f=.m3u8
 
 #EXTINF:-1 group-title="SERIES Y PELICULAS" tvg-logo="https://www.newslinereport.com/online/nota_space-estrena-la-serie-zoo-.jpg", SPACE
-http://ipeteve.com/php/SR_REGIO_422/tp.php?c=129&p=3&k=srregio&f=.m3u8
+http://tecnotv.club/moon/geomex.php?c=129&p=3&k=tecnotv&f=.m3u8 
 
 #EXTINF:-1 group-title="SERIES Y PELICULAS" tvg-logo="https://backend.laguia.tv/uploads/CineCanal_f1374d3a6e.png", CINECANAL
-http://ipeteve.com/php/SR_REGIO_422/tp.php?c=149&p=3&k=srregio&f=.m3u8  
+http://tecnotv.club/moon/geomex.php?c=149&p=3&k=tecnotv&f=.m3u8
 
 #EXTINF:-1 group-title="SERIES Y PELICULAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/600px-TNT_Logo_2016.svg.png", TNT
 http://ipeteve.com/php/SR_REGIO_422/tp.php?c=126&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1 group-title="SERIES Y PELICULAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/800px-FX_International_logo.svg.png", FX LATINO
-http://ipeteve.com/php/SR_REGIO_422/tp.php?c=60&p=3&k=srregio&f=.m3u8 
+http://tecnotv.club/moon/geomex.php?c=60&p=3&k=tecnotv&f=.m3u8
 
 #EXTINF:-1 group-title="SERIES Y PELICULAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png", GOLDEN
-http://ipeteve.com/php/SR_REGIO_422/tp.php?c=123&p=3&k=srregio&f=.m3u8  
+http://tecnotv.club/moon/geomex.php?c=122&p=3&k=tecnotv&f=.m3u8 
 
 #EXTINF:-1 group-title="SERIES Y PELICULAS" tvg-logo="https://seeklogo.com/images/G/golden-edge-logo-B4A01BE953-seeklogo.com.png", GOLDEN EDGE
-http://ipeteve.com/php/SR_REGIO_422/tp.php?c=124&p=3&k=srregio&f=.m3u8 
+http://tecnotv.club/moon/geomex.php?c=124&p=3&k=tecnotv&f=.m3u8 
 
 #EXTINF:-1 group-title="SERIES Y PELICULAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Star_Series_2020.svg/800px-Star_Series_2020.svg.png", STAR SERIES
-http://ipeteve.com/php/SR_REGIO_422/tp.php?c=139&p=3&k=srregio&f=.m3u8
+http://tecnotv.club/moon/geomex.php?c=139&p=3&k=tecnotv&f=.m3u8
 
-#EXTINF:-1 group-title="SERIES Y PELICULAS" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/star_life_500x575_c881f5b4.png?region=0,0,500,575&width=480", STAR LIFE
-http://ipeteve.com/php/SR_REGIO_422/tp.php?c=77&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="SERIES Y PELICULAS" tvg-logo="SERIES Y PELICULA", STAR LIFE
+http://tecnotv.club/moon/geomex.php?c=77&p=3&k=tecnotv&f=.m3u8  
+
+#EXTINF:-1 group-title="SERIES Y PELICULAS" tvg-logo=" https://assets.cdn.watchdisneyfe.com/delta/assets/foxplay/DSNY_STAR_LOGO_LIGHT_RGB.png" ,STAR HD 
+http://tecnotv.club/moon/geomex.php?c=201&p=3&k=tecnotv&f=.m3u8
+
+#EXTINF:-1 group-title="SERIES Y PELICULAS" tvg-logo="https://seeklogo.com/images/F/fox-movies-logo-F27D1460B9-seeklogo.com.png" ,STAR MOVIES 
+http://tecnotv.club/moon/geomex.php?c=146&p=3&k=tecnotv&f=.m3u8 
+
+#EXTINF:-1 group-title="SERIES Y PELICULAS" tvg-logo="https://seeklogo.com/images/S/star-atcion-logo-7391F231E8-seeklogo.com.png" ,SATR ACTION
+http://tecnotv.club/moon/geomex.php?c=336&p=3&k=tecnotv&f=.m3u8 
+
+#EXTINF:-1 group-title="SERIES Y PELICULA" tvg-logo="https://seeklogo.com/images/S/star-cinema-logo-DA286E4FA2-seeklogo.com.png" ,STAR CINEMA SD
+http://tecnotv.club/moon/geomex.php?c=1729&p=3&k=tecnotv&f=.m3u8  
+
+#EXTINF:-1 group-title="SERIES Y PELICULA" tvg-logo="https://seeklogo.com/images/S/star-classics-logo-DA1825A08D-seeklogo.com.png" ,STAR CLASSICS SD
+http://tecnotv.club/moon/geomex.php?c=1732&p=3&k=tecnotv&f=.m3u8
 
 #EXTINF:-1 group-title="SERIES Y PELICULAS" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnj_MJneiZgLurj7WHk1Ksjkls7vFa14aVBD3qeZCg=s900-c-k-c0x00ffffff-no-rj", AXN
-http://ipeteve.com/php/SR_REGIO_422/tp.php?c=64&p=3&k=srregio&f=.m3u8 
+http://tecnotv.club/moon/geomex.php?c=64&p=3&k=tecnotv&f=.m3u8  
 
