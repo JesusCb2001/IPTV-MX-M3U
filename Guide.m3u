@@ -25,7 +25,7 @@ http://tecnotv.club/sun/geomex.php?c=109&p=3&k=tecnotv&f=.m3u8
 http://tecnotv.club/sun/geomex.php?c=86&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-id="Nick.mx(m3u4u)" tvg-name="NICK" tvg-logo="https://www.telezumiko.com/img/nick.png" group-title="INFANTIL Y JUVENIL",NICK
 http://tecnotv.club/sun/geomex.php?c=110&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-id="TeenNick.mx(m3u4u)" tvg-name="NICK 2" tvg-logo="https://www.telezumiko.com/img/nick2.png" group-title="INFANTIL Y JUVENIL",NICK 2
+#EXTINF:-1 tvg-id="https://mi.tv/mx/canales/nickelodeon-hd" tvg-name="NICK 2 tvg-logo="https://www.telezumiko.com/img/nick2.png" group-title="INFANTIL Y JUVENIL",NICK 2
 http://tecnotv.club/sun/geomex.php?c=2147&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-id="Nicktoons(English).mx(m3u4u)" tvg-name="NICKTOONS SD" tvg-logo="https://www.telezumiko.com/img/nicktoons.png" group-title="INFANTIL Y JUVENIL",NICKTOONS SD
 http://tecnotv.club/sun/geomex.php?c=1708&p=3&k=tecnotv&f=.m3u8
