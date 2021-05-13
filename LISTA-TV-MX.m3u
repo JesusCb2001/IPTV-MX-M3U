@@ -1,80 +1,81 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="TV ABIERTA" tvg-logo="https://s03.s3c.es/imag/_v0/767x419/6/6/9/600x400_azteca-1.png", AZTECA 1
+#EXTINF:-1 group-title="TV ABIERTA" tvg-id="XHDFAztecaUno.mx(m3u4u)" tvg-logo="https://s03.s3c.es/imag/_v0/767x419/6/6/9/600x400_azteca-1.png", AZTECA 1
 http://tecnotv.club/sun/geomex.php?c=27&p=3&k=tecnotv&f=.m3u8 
 
-#EXTINF:-1 group-title="TV ABIERTA" tvg-id="Canal Azteca 7 (México)" tvg-logo="https://telegratis.org/wp-content/uploads/2019/11/azteca-7.png", AZTECA 7
+#EXTINF:-1 group-title="TV ABIERTA" tvg-id="Azteca7.mx(m3u4u)" tvg-logo="https://telegratis.org/wp-content/uploads/2019/11/azteca-7.png", AZTECA 7
 http://tecnotv.club/sun/geomex.php?c=21&p=3&k=tecnotv&f=.m3u8 
 
-#EXTINF:-1 group-title="TV ABIERTA" tvg-logo="https://pbs.twimg.com/profile_images/1356749562644463616/wogHFIwn_400x400.jpg", ADN 40 
+#EXTINF:-1 group-title="TV ABIERTA" tvg-id="adn40.mx(m3u4u)" tvg-logo="https://pbs.twimg.com/profile_images/1356749562644463616/wogHFIwn_400x400.jpg", ADN 40 
 https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
 
-#EXTINF:-1 group-title="TV ABIERTA" group-title="NOTICIAS" tvg-logo="https://noticieros.televisa.com/wp-content/themes/news-amp/images/foro-live.png", FORO TV
+#EXTINF:-1 group-title="TV ABIERTA" tvg-id="ForoTV.mx(m3u4u)" group-title="NOTICIAS" tvg-logo="https://noticieros.televisa.com/wp-content/themes/news-amp/images/foro-live.png", FORO TV
 https://adinsertprimeforotv.akamaized.net/hls/live/2004483/forotvdai/PROFILE02.m3u8
 
-#EXTINF:-1 group-title="TV ABIERTA" tvg-logo="https://telegratis.org/wp-content/uploads/2019/11/las-estrellas.png", LAS ESTRELLAS
+#EXTINF:-1 group-title="TV ABIERTA" tvg-id="LasEstrellas.mx(m3u4u)" tvg-logo="https://telegratis.org/wp-content/uploads/2019/11/las-estrellas.png", LAS ESTRELLAS
 http://tecnotv.club/sun/geomex.php?c=17&p=3&k=tecnotv&f=.m3u8 
 
-#EXTINF:-1 group-title="TV ABIERTA" tvg-logo="https://telegratis.org/wp-content/uploads/2019/11/canal-5.png", CANAL 5
+#EXTINF:-1 group-title="TV ABIERTA" tvg-id="Canal5.mx(m3u4u)" tvg-logo="https://telegratis.org/wp-content/uploads/2019/11/canal-5.png", CANAL 5
 http://tecnotv.club/sun/geomex.php?c=20&p=3&k=tecnotv&f=.m3u8 
 
-#EXTINF:-1 group-title="TV ABIERTA" tvg-logo="https://www.teleblanca.com/img/imagen.png" , IMAGEN TV
+#EXTINF:-1 group-title="TV ABIERTA" tvg-id="ImagenTv.mx(m3u4u)" tvg-logo="https://www.teleblanca.com/img/imagen.png" , IMAGEN TV
 htthttp://tecnotv.club/sun/geomex.php?c=2298&p=3&k=tecnotv&f=.m3u8  
 
-#EXTINF:-1 group-title="TV ABIERTA" tvg-logo="https://www.televisa.com/el-nueve/assets/56c582ffbc635c96/img/placeholder_default_share.jpg", NUEVE
+#EXTINF:-1 group-title="TV ABIERTA" tvg-id="CanalNu9ve.mx(m3u4u)" tvg-logo="https://www.televisa.com/el-nueve/assets/56c582ffbc635c96/img/placeholder_default_share.jpg", NUEVE
 http://tecnotv.club/sun/geomex.php?c=24&p=3&k=tecnotv&f=.m3u8 
 
 
 
 
 
-#EXTINF:-1 group-title="NOVELAS" tvg-logo="https://tvnotiblog.com/wp-content/uploads/2007/09/tlnovelas_logo-768x432.jpg", TL NOVELAS
+#EXTINF:-1 group-title="NOVELAS" tvg-id="TLNovelas.mx(m3u4u)" tvg-logo="https://tvnotiblog.com/wp-content/uploads/2007/09/tlnovelas_logo-768x432.jpg", TL NOVELAS
 http://tecnotv.club/sun/geomex.php?c=83&p=3&k=tecnotv&f=.m3u8  
 
 
 
 
 
-#EXTINF:-1 group-title="INFANTIL Y JUVENIL" tvg-logo="https://www.telezumiko.com/img/tooncast.png", TOONCAST
+#EXTINF:-1 group-title="INFANTIL Y JUVENIL" tvg-id="Tooncast.mx(m3u4u)" tvg-logo="https://www.telezumiko.com/img/tooncast.png", TOONCAST
 http://tecnotv.club/sun/geomex.php?c=108&p=3&k=tecnotv&f=.m3u8 
 
-#EXTINF:-1 group-title="INFANTIL Y JUVENIL" tvg-logo="https://www.telezumiko.com/img/dkids.png", DISCOVERY KIDS
+#EXTINF:-1 group-title="INFANTIL Y JUVENIL" tvg-id="DiscoveryKids.mx(m3u4u)" tvg-logo="https://www.telezumiko.com/img/dkids.png", DISCOVERY KIDS
 http://tecnotv.club/sun/geomex.php?c=109&p=3&k=tecnotv&f=.m3u8  
 
-#EXTINF:-1 group-title="INFANTIL Y JUVENIL" tvg-logo="https://www.telebunker.com/img/discovery.png", DISCOVERY CHANNEL
+#EXTINF:-1 group-title="INFANTIL Y JUVENIL" tvg-id="DiscoveryChannel.mx(m3u4u)" tvg-logo="https://www.telebunker.com/img/discovery.png", DISCOVERY CHANNEL
 http://tecnotv.club/sun/geomex.php?c=86&p=3&k=tecnotv&f=.m3u8   
  
-#EXTINF:-1 group-title="INFANTIL Y JUVENIL" tvg-logo="https://www.telezumiko.com/img/nick.png", NICK
+#EXTINF:-1 group-title="INFANTIL Y JUVENIL" tvg-id="Nick.mx(m3u4u)" tvg-logo="https://www.telezumiko.com/img/nick.png", NICK
 http://tecnotv.club/sun/geomex.php?c=110&p=3&k=tecnotv&f=.m3u8  
 
-#EXTINF:-1 group-title="INFANTIL Y JUVENIL" tvg-logo="https://www.telezumiko.com/img/nick2.png", NICK 2  
+#EXTINF:-1 group-title="INFANTIL Y JUVENIL" tvg-id="TeenNick.mx(m3u4u)" tvg-logo="https://www.telezumiko.com/img/nick2.png", NICK 2  
 http://tecnotv.club/sun/geomex.php?c=2147&p=3&k=tecnotv&f=.m3u8
 
-#EXTINF:-1 group-title="INFANTIL Y JUVENIL" tvg-logo="https://www.telezumiko.com/img/nicktoons.png", NICKTOONS SD 
+#EXTINF:-1 group-title="INFANTIL Y JUVENIL" tvg-id="Nicktoons(English).mx(m3u4u)" tvg-logo="https://www.telezumiko.com/img/nicktoons.png", NICKTOONS SD 
 http://tecnotv.club/sun/geomex.php?c=1708&p=3&k=tecnotv&f=.m3u8 
 
-#EXTINF:-1 group-title="INFANTIL Y JUVENIL" tvg-logo="https://www.telezumiko.com/img/cartoon.png", CARTOON NETWORK
+#EXTINF:-1 group-title="INFANTIL Y JUVENIL" tvg-id="CartoonNetwork.mx(m3u4u)" tvg-logo="https://www.telezumiko.com/img/cartoon.png", CARTOON NETWORK
 http://tecnotv.club/sun/geomex.php?c=112&p=3&k=tecnotv&f=.m3u8  
 
-#EXTINF:-1 group-title="INFANTIL Y JUVENIL" tvg-logo="https://www.telezumiko.com/img/disney.png", DISNEY CHANNEL
+#EXTINF:-1 group-title="INFANTIL Y JUVENIL" tvg-id="DiscoveryChannel.mx(m3u4u)" tvg-logo="https://www.telezumiko.com/img/disney.png", DISNEY CHANNEL
 http://tecnotv.club/sun/geomex.php?c=113&p=3&k=tecnotv&f=.m3u8 
 
-#EXTINF:-1 group-title="INFANTIL Y JUVENIL" tvg-logo="https://www.telezumiko.com/img/djunior.png", DISNEY JR
+#EXTINF:-1 group-title="INFANTIL Y JUVENIL" tvg-id="DisneyJunior.mx(m3u4u)" tvg-logo="https://www.telezumiko.com/img/djunior.png", DISNEY JR
 http://tecnotv.club/sun/geomex.php?c=118&p=3&k=tecnotv&f=.m3u8 
 
-#EXTINF:-1 group-title="INFANTIL Y JUVENIL" tvg-logo="https://www.telezumiko.com/img/disneyxd.png", DISNEY XD
-http://tecnotv.club/sun/geomex.php?c=111&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 group-title="INFANTIL Y JUVENIL" tvg-logo="https://cn.i.cdn.ti-platform.com/content/1057/boomerang/showpage/ar/png_showpages.83b8f431.png?imwidth=250", BOOMERANG
+#EXTINF:-1 group-title="INFANTIL Y JUVENIL" tvg-id="DisneyXD.mx(m3u4u)" tvg-logo="https://www.telezumiko.com/img/disneyxd.png", DISNEY XD
+http://tecnotv.club/sun/geomex.php?c=111&p=3&k=tecnotv&f=.m3u8 
+
+#EXTINF:-1 group-title="INFANTIL Y JUVENIL" tvg-id="Boomerang.mx(m3u4u)"  tvg-logo="https://cn.i.cdn.ti-platform.com/content/1057/boomerang/showpage/ar/png_showpages.83b8f431.png?imwidth=250", BOOMERANG
 http://tecnotv.club/sun/geomex.php?c=115&p=3&k=tecnotv&f=.m3u8 
 
-#EXTINF:-1 group-title="INFANTIL Y JUEVENIL" tvg-logo="https://i.blogs.es/47c708/bitme/1366_2000.jpg",BIT ME  
+#EXTINF:-1 group-title="INFANTIL Y JUEVENIL" tvg-id="Bitme.mx(m3u4u)" tvg-logo="https://i.blogs.es/47c708/bitme/1366_2000.jpg",BIT ME  
 http://tecnotv.club/sun/geomex.php?c=2591&p=3&k=tecnotv&f=.m3u8
 
 
-#EXTINF:-1 group-title="COMEDIA" tvg-logo="https://i.ytimg.com/vi/jMrM2qF0H-k/maxresdefault.jpg", DISTRITO COMEDIA
+#EXTINF:-1 group-title="COMEDIA" tvg-id="DistritoComedia.mx(m3u4u)" tvg-logo="https://i.ytimg.com/vi/jMrM2qF0H-k/maxresdefault.jpg", DISTRITO COMEDIA
 http://tecnotv.club/sun/geomex.php?c=78&p=3&k=tecnotv&f=.m3u8  
 
-#EXTINF:-1 group-title="COMEDIA" tvg-logo="https://larepublica.pe/resizer/eeinkU0xbmusHWuP0tkiuzfgre4=/1250x735/top/smart/cloudfront-us-east-1.images.arcpublishing.com/gruporepublica/EMTMFTQTFFA6BHTYMGPFYKOUPY.jpg", COMEDY CENTRAL 
+#EXTINF:-1 group-title="COMEDIA" tvg-id="ComedyCentral.mx(m3u4u)" tvg-logo="https://larepublica.pe/resizer/eeinkU0xbmusHWuP0tkiuzfgre4=/1250x735/top/smart/cloudfront-us-east-1.images.arcpublishing.com/gruporepublica/EMTMFTQTFFA6BHTYMGPFYKOUPY.jpg", COMEDY CENTRAL 
 http://tecnotv.club/sun/geomex.php?c=341&p=3&k=tecnotv&f=.m3u8 
 
 
@@ -83,28 +84,28 @@ http://tecnotv.club/sun/geomex.php?c=341&p=3&k=tecnotv&f=.m3u8
 
 
 
-#EXTINF:-1 group-title="MUSICA" tvg-logo="https://www.telebunker.com/img/mtv.png", MTV
+#EXTINF:-1 group-title="MUSICA" tvg-id="MTV.mx" tvg-logo="https://www.telebunker.com/img/mtv.png", MTV
 http://tecnotv.club/sun/geomex.php?c=212&p=3&k=tecnotv&f=.m3u8   
 
-#EXTINF:-1 group-title="MUSICA" tvg-logo="https://pbs.twimg.com/profile_images/1157806738021736448/ODAmOsLN_400x400.jpg", MTV HITS SD
+#EXTINF:-1 group-title="MUSICA" tvg-id="MTVHits(English).mx" tvg-logo="https://pbs.twimg.com/profile_images/1157806738021736448/ODAmOsLN_400x400.jpg", MTV HITS SD
 http://tecnotv.club/sun/geomex.php?c=213&p=3&k=tecnotv&f=.m3u8 
 
-#EXTINF:-1 group-title="MUSICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/MTV_Live.svg/800px-MTV_Live.svg.png", MTV LIVE
+#EXTINF:-1 group-title="MUSICA" tvg-id="MTVLive(English).mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/MTV_Live.svg/800px-MTV_Live.svg.png", MTV LIVE
 http://tecnotv.club/sun/geomex.php?c=211&p=3&k=tecnotv&f=.m3u8 
 
 #EXTINF:-1 group-title="MUSICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LOGO_VH1_CLASSIC.svg/620px-LOGO_VH1_CLASSIC.svg.png", VH1 CLASSIC SD
 http://tecnotv.club/sun/geomex.php?c=214&p=3&k=tecnotv&f=.m3u8 
 
-#EXTINF:-1 group-title="MUSICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1920px-VH1_logonew.svg.png", VH1 SD 
+#EXTINF:-1 group-title="MUSICA" tvg-id="VH1.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1920px-VH1_logonew.svg.png", VH1 SD 
 http://tecnotv.club/sun/geomex.php?c=217&p=3&k=tecnotv&f=.m3u8  
 
 #EXTINF:-1 group-title="MUSICA" tvg-logo="https://elincorrecto.mx/wp-content/uploads/2019/03/telehit.png", TELEHIT URBANO SD
 http://tecnotv.club/sun/geomex.php?c=218&p=3&k=tecnotv&f=.m3u8 
 
-#EXTINF:-1 group-title="MUSICA" tvg-logo="https://forounivers.com/uploads/monthly_2018_06/large.Logo_telehit.png.cdf9dcc20a1e4c0a05bd9f4e29383079.png", TELEHIT 
+#EXTINF:-1 group-title="MUSICA" tvg-id="Telehit.mx" tvg-logo="https://forounivers.com/uploads/monthly_2018_06/large.Logo_telehit.png.cdf9dcc20a1e4c0a05bd9f4e29383079.png", TELEHIT 
 http://tecnotv.club/sun/geomex.php?c=220&p=3&k=tecnotv&f=.m3u8  
 
-#EXTINF:-1 group-title="MUSICA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/Bandamax_logo.jpg", BANDAMAX SD
+#EXTINF:-1 group-title="MUSICA" tvg-id="Bandamax.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/Bandamax_logo.jpg", BANDAMAX SD
 http://tecnotv.club/sun/geomex.php?c=221&p=3&k=tecnotv&f=.m3u8  
 
 #EXTINF:-1 group-title="MUSICA" tvg-logo="https://vivotvhd.com/img/cha/3016.gif", AZ CLIC
@@ -115,51 +116,51 @@ http://tecnotv.club/sun/geomex.php?c=223&p=3&k=tecnotv&f=.m3u8
 
 
 
-#EXTINF:-1 group-title="SERIES Y PELICULAS" tvg-logo="https://www.tvconexion.com/img/warner.png", WARNER CHANNEL
+#EXTINF:-1 group-title="SERIES Y PELICULAS" tvg-id="WarnerChannel.mx" tvg-logo="https://www.tvconexion.com/img/warner.png", WARNER CHANNEL
 http://tecnotv.club/sun/geomex.php?c=52&p=3&k=tecnotv&f=.m3u8 
 
-#EXTINF:-1 group-title="SERIES Y PELICULAS" tvg-logo="https://www.newslinereport.com/online/nota_cinemax-entre-los-favoritos-de-la-audiencia-mexicana.jpg", CINEMAX
+#EXTINF:-1 group-title="SERIES Y PELICULAS" tvg-id="Cinemax.mx" tvg-logo="https://www.newslinereport.com/online/nota_cinemax-entre-los-favoritos-de-la-audiencia-mexicana.jpg", CINEMAX
 http://tecnotv.club/sun/geomex.php?c=158&p=3&k=tecnotv&f=.m3u8
 
-#EXTINF:-1 group-title="SERIES Y PELICULAS" tvg-logo="https://www.newslinereport.com/online/nota_space-estrena-la-serie-zoo-.jpg", SPACE
+#EXTINF:-1 group-title="SERIES Y PELICULAS" tvg-id="Space.mx" tvg-logo="https://www.newslinereport.com/online/nota_space-estrena-la-serie-zoo-.jpg", SPACE
 http://tecnotv.club/sun/geomex.php?c=129&p=3&k=tecnotv&f=.m3u8 
 
-#EXTINF:-1 group-title="SERIES Y PELICULAS" tvg-logo="https://backend.laguia.tv/uploads/CineCanal_f1374d3a6e.png", CINECANAL
+#EXTINF:-1 group-title="SERIES Y PELICULAS" tvg-id="Cinecanal.mx"  tvg-logo="https://backend.laguia.tv/uploads/CineCanal_f1374d3a6e.png", CINECANAL
 http://tecnotv.club/sun/geomex.php?c=149&p=3&k=tecnotv&f=.m3u8  
 
-#EXTINF:-1 group-title="SERIES Y PELICULAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/800px-FX_International_logo.svg.png", FX LATINO
+#EXTINF:-1 group-title="SERIES Y PELICULAS" tvg-id="FX.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/800px-FX_International_logo.svg.png", FX LATINO
 http://tecnotv.club/sun/geomex.php?c=60&p=3&k=tecnotv&f=.m3u8  
 
-#EXTINF:-1 group-title="SERIES Y PELICULAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png", GOLDEN
+#EXTINF:-1 group-title="SERIES Y PELICULAS" tvg-id="Golden.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png", GOLDEN
 http://tecnotv.club/sun/geomex.php?c=123&p=3&k=tecnotv&f=.m3u8 
 
-#EXTINF:-1 group-title="SERIES Y PELICULAS" tvg-logo="https://seeklogo.com/images/G/golden-edge-logo-B4A01BE953-seeklogo.com.png", GOLDEN EDGE
+#EXTINF:-1 group-title="SERIES Y PELICULAS" tvg-id="GoldenEdge.mx" tvg-logo="https://seeklogo.com/images/G/golden-edge-logo-B4A01BE953-seeklogo.com.png", GOLDEN EDGE
 http://tecnotv.club/sun/geomex.php?c=124&p=3&k=tecnotv&f=.m3u8 
 
-#EXTINF:-1 group-title="SERIES Y PELICULAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Star_Series_2020.svg/800px-Star_Series_2020.svg.png", STAR SERIES
+#EXTINF:-1 group-title="SERIES Y PELICULAS" tvg-id="StarSeries.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Star_Series_2020.svg/800px-Star_Series_2020.svg.png", STAR SERIES
 http://tecnotv.club/sun/geomex.php?c=139&p=3&k=tecnotv&f=.m3u8  
 
-#EXTINF:-1 group-title="SERIES Y PELICULAS" tvg-logo="SERIES Y PELICULA", STAR LIFE
+#EXTINF:-1 group-title="SERIES Y PELICULAS" tvg-id="StarLife.mx" tvg-logo="SERIES Y PELICULA", STAR LIFE
 http://tecnotv.club/sun/geomex.php?c=77&p=3&k=tecnotv&f=.m3u8  
 
-#EXTINF:-1 group-title="SERIES Y PELICULAS" tvg-logo=" https://assets.cdn.watchdisneyfe.com/delta/assets/foxplay/DSNY_STAR_LOGO_LIGHT_RGB.png" ,STAR HD 
+#EXTINF:-1 group-title="SERIES Y PELICULAS" tvg-id="Fox.mx" tvg-logo=" https://assets.cdn.watchdisneyfe.com/delta/assets/foxplay/DSNY_STAR_LOGO_LIGHT_RGB.png" ,STAR HD 
 http://tecnotv.club/sun/geomex.php?c=46&p=3&k=tecnotv&f=.m3u8
 
 #EXTINF:-1 group-title="SERIES Y PELICULAS" tvg-logo="https://seeklogo.com/images/F/fox-movies-logo-F27D1460B9-seeklogo.com.png" ,STAR MOVIES 
 http://tecnotv.club/sun/geomex.php?c=146&p=3&k=tecnotv&f=.m3u8  
 
-#EXTINF:-1 group-title="SERIES Y PELICULAS" tvg-logo="https://seeklogo.com/images/S/star-atcion-logo-7391F231E8-seeklogo.com.png" ,SATR ACTION
+#EXTINF:-1 group-title="SERIES Y PELICULAS" tvg-id="StarAction.mx" tvg-logo="https://seeklogo.com/images/S/star-atcion-logo-7391F231E8-seeklogo.com.png" ,SATR ACTION
 http://tecnotv.club/sun/geomex.php?c=336&p=3&k=tecnotv&f=.m3u8 
 
-#EXTINF:-1 group-title="SERIES Y PELICULA" tvg-logo="https://seeklogo.com/images/S/star-cinema-logo-DA286E4FA2-seeklogo.com.png" ,STAR CINEMA SD
+#EXTINF:-1 group-title="SERIES Y PELICULA" tvg-id="AXN.mx" tvg-logo="https://seeklogo.com/images/S/star-cinema-logo-DA286E4FA2-seeklogo.com.png" ,STAR CINEMA SD
 http://tecnotv.club/sun/geomex.php?c=1729&p=3&k=tecnotv&f=.m3u8 
 
-#EXTINF:-1 group-title="SERIES Y PELICULA" tvg-logo="https://seeklogo.com/images/S/star-classics-logo-DA1825A08D-seeklogo.com.png" ,STAR CLASSICS SD
+#EXTINF:-1 group-title="SERIES Y PELICULAS" tvg-id="ParamountNetwork.mx" tvg-logo="https://seeklogo.com/images/S/star-classics-logo-DA1825A08D-seeklogo.com.png" ,STAR CLASSICS SD
 http://tecnotv.club/sun/geomex.php?c=1732&p=3&k=tecnotv&f=.m3u8
 
-#EXTINF:-1 group-title="SERIES Y PELICULAS" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnj_MJneiZgLurj7WHk1Ksjkls7vFa14aVBD3qeZCg=s900-c-k-c0x00ffffff-no-rj", AXN
+#EXTINF:-1 group-title="SERIES Y PELICULAS" tvg-id="STARCINEMA.mx" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnj_MJneiZgLurj7WHk1Ksjkls7vFa14aVBD3qeZCg=s900-c-k-c0x00ffffff-no-rj", AXN
 http://tecnotv.club/sun/geomex.php?c=64&p=3&k=tecnotv&f=.m3u8 
 
-#EXTINF:-1 group-title="SERIES Y PELICULAS",PARAMOUNT CHANNEL 
+#EXTINF:-1 group-title="SERIES Y PELICULAS" tvg-id="StarClassics.mx",PARAMOUNT CHANNEL 
 http://tecnotv.club/sun/geomex.php?c=1726&p=3&k=tecnotv&f=.m3u8 
 
